@@ -8,7 +8,13 @@ public class Main {
 		System.out.print("Introduce primer número: ");
 		numero1 = sc.nextInt();
 		System.out.print("Introduce segundo número: ");
-		numero2 = sc.nextInt();
+		numero2 = sc.nextInt();}
+
+		public static int suma(int a, int b) {
+			int c;
+			c = a + b;
+			return c;
+			
 
 
 	}
